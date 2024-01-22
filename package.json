@@ -1,0 +1,12 @@
+{
+  "name": "node_with_typescript",
+  "version": "1.0.0",
+  "description": "This projects illustrates how to use note coupled with typescript to create an authentication api and user service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
