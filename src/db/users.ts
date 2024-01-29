@@ -6,6 +6,7 @@ const userSchema = new mongoose.Schema({
     authentication: {
         password: {type: String, required: true, select: false},
         sessionToken: {type: String, select: false},
+        salt: {type: String, select: false},
     }
 })
 
